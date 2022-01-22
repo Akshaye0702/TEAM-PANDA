@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Team PANDA</title>
+    <style>
+
+    </style>
+</head>
+<body>
+<h2 id='header'>Header for title</h2>
+<h4 id='teaminfo'>Info on the team and our motivation</h4>
+
+<img src="mapf.png" usemap="#image-map">
+
+<map name="image-map">
+    <area target="" alt="Lakshadweep" title="Lakshadweep" href="#Lakshadweep" coords="519,1640,487,1676,467,1701,469,1741,511,1761,538,1769,554,1812,603,1785,619,1729,577,1681,549,1649" shape="poly">
+    <area target="" alt="Andaman and nicobar" title="Andaman and nicobar" href="#Andaman and Nicobar Islands" coords="1738,1471,1706,1489,1678,1547,1663,1685,1686,1810,1739,1921,1777,1960,1780,1893,1746,1842,1720,1771,1709,1720,1727,1564" shape="poly">
+    <area target="" alt="Western ghats" title="Western ghats" href="#western ghats" coords="540,798,497,822,496,858,428,847,365,842,330,883,375,930,409,943,457,930,436,962,368,966,416,1027,462,1073,522,1064,563,1109,575,1305,633,1527,648,1627,715,1731,792,1857,784,1728,769,1647,690,1564,711,1452,674,1438,704,1389,701,1300,655,1239,663,1165,640,1137,658,1110,612,1052,630,1011,598,997,628,927,584,886" shape="poly">
+    <area target="" alt="Eastern ghats" title="Eastern ghats" href="#eastern ghats" coords="1360,1077,1269,1124,1201,1110,1139,1170,1130,1216,1089,1273,1050,1296,974,1308,932,1338,920,1407,936,1455,918,1522,893,1559,904,1578,874,1673,840,1685,860,1722,799,1798,798,1853,851,1802,891,1786,937,1708,985,1540,983,1486,1114,1355,1211,1246,1363,1128" shape="poly">
+    <area target="" alt="Deccan plateau" title="Deccan plateau" href="#deccan plateau" coords="791,1799,785,1721,771,1648,727,1590,692,1548,716,1454,679,1427,713,1377,701,1301,660,1220,662,1112,626,1046,639,1007,600,988,658,894,727,898,778,822,854,769,909,779,1001,860,1116,866,1269,883,1344,875,1375,913,1344,1000,1342,1080,1273,1115,1209,1113,1140,1171,1089,1270,978,1308,932,1335,921,1405,930,1452,893,1551,877,1661,840,1682,851,1726" shape="poly">
+    <area target="" alt="Central plains" title="Central plains" href="#central plains" coords="893,625,837,657,856,712,870,758,914,779,985,836,1045,850,1123,853,1204,869,1317,866,1372,889,1370,935,1354,970,1344,1064,1386,1062,1439,1027,1483,1014,1474,963,1457,922,1436,859,1469,825,1487,786,1524,792,1573,790,1655,776,1738,786,1752,728,1678,740,1554,740,1473,737,1390,765,1271,740,1223,710,1047,645,941,599" shape="poly">
+    <area target="" alt="Desert" title="Desert" href="#desert" coords="503,825,478,777,457,760,458,723,428,701,483,634,526,648,623,583,648,534,718,466,725,419,777,392,803,449,842,481,893,516,997,608,936,595,902,638,867,625,842,650,856,717,877,742,808,790,759,836,736,894,649,892,635,926,598,915,572,873,542,800" shape="poly">
+    <area target="" alt="North" title="North" href="#north" coords="640,175,676,122,754,120,819,138,897,221,978,198,1019,216,1006,267,978,304,941,313,958,380,923,390,943,465,1052,537,1004,607,928,549,830,469,778,388,685,351,679,248,711,227" shape="poly">
+    <area target="" alt="North east 1" title="North east 1" href="#north-east" coords="1453,672,1425,697,1423,732,1458,732,1478,701,1487,679" shape="poly">
+    <area target="" alt="North east 2" title="North east 2" href="#north-east" coords="1644,730,1617,695,1642,663,1715,620,1766,574,1807,596,1845,566,1883,610,1911,633,1913,700,1851,696,1847,758,1789,813,1766,887,1713,965,1706,1018,1667,967,1651,924,1621,953,1603,914,1651,877,1669,847,1616,843,1540,832,1542,804,1591,788,1658,776,1697,792,1741,796,1755,760,1748,723,1686,741" shape="poly">
+</map>
+
+<h3>
+    <p id='western ghats'>
+        Western ghats <br>
+        <img id="western map" src="westernghats.png">
+        Located on the western side of the Indian peninsula,
+        the western ghats primarily consist of tropical evergreen forests.
+        These areas have high rainfall and a short dry season.<br>
+        A few examples of trees which can be planted in this region are:</p>
+    <table>
+        <tbody>
+        <tr> <td><i>Saraca Asoca</i></td> </tr>
+        <tr> <td><i>Santalum album</i></td> </tr>
+        <tr> <td><i>Phyllanthus emblica</i></td> </tr>
+        </tbody>
+    </table>
+    <br>
+
+    <p id='eastern ghats'>
+        Eastern ghats  <br>
+        <img id="eastern map" src="easternghats.png">
+        Located on the eastern side of the Indian Peninsula,
+        the eastern ghats consist mainly of tropical deciduous forests. On the basis of the availability of water,
+        these forests are further divided into moist and dry deciduous.<br>
+        A few examples of trees which can be planted in this region are:</p>
+    <table>
+        <tbody>
+        <tr><td><i>Acacia donald</i></td></tr>
+        <tr><td><i>Cordia domestica</i></td></tr>
+        <tr><td><i>Bridelia cinerascens</i></td></tr>
+        </tbody></table><br>
+
+    <p id='deccan plateau'>
+        Deccan plateau <br>
+        <img id="deccan map" src="deccan copy.png">
+        A triangular landmass lying between the Eastern and Western Ghats, the Deccan Plateau mainly consists of dry deciduous forests. <br>
+        Some trees that can be found in this region are: </p>
+
+    <table>
+        <tbody>
+        <tr><td><i>Hardwickia binata</i></td><tr>
+        <tr><td><i>Tectona grandis</i></td></tr>
+        <tr><td><i>Boswelia serrata</i></td></tr>
+        </tbody></table><br>
+
+    <p id='central plains'>
+        Central plains<br>
+        <img id="central map" src="central plains copy.png">
+        The part of the Peninsular Plateau that lies to the north of the Narmada river, these mostly consist of dry deciduous forests. <br>
+        Trees that can be found in this region consist of: </p>
+
+    <table>
+        <tbody>
+        <tr><td><i>Shorea robusta</i></td></tr>
+        <tr><td><i>Terminalia arjuna</i></td></tr>
+        <tr><td><i>Morus alba</i></td></tr>
+        </tbody></table><br>
+    <p id='desert'>
+        Desert<br>
+        <img id="desert map" src="desert copy.png">
+
+    </p>
+    <table>
+        <tbody>
+        <tr><td><i></i></td></tr>
+        <tr><td><i></i></td></tr>
+        <tr><td><i></i></td></tr>
+        </tbody>
+    </table><br>
+
+    <p id='north'>
+        North<br>
+        <img id="north map" src="kashmir.png">
+
+    </p>
+    <table>
+        <tbody>
+        <tr><td><i></i></td></tr>
+        <tr><td><i></i></td></tr>
+        <tr><td><i></i></td></tr>
+        </tbody>
+    </table><br>
+
+    <p id="north-east">
+        North-East<br>
+        <img id="north east" src="assam.png">
+
+    </p>
+    <table>
+        <tbody>
+        <tr><td><i></i></td></tr>
+        <tr><td><i></i></td></tr>
+        <tr><td><i></i></td></tr>
+        </tbody>
+    </table><br>
+
+    <p id='Lakshadweep'>
+        Lakshadweep<br>
+        <img id="lakshadweep map" src="lakshwadeep.png">
+        A group of 36 islands located in the Arabian Sea,  Lakshadweep mainly has a tropical humid climate. <br>
+        Vegetation that can be found here mostly is: </p>
+    <table>
+        <tbody>
+        <tr><td><i>Musa Paradisiaca</i></td></tr>
+        <tr><td><i>Drumstic moringakkai (Moringa Oleifera)</i></td></tr>
+        <tr><td><i>Artocarpus altilis</i></td></tr>
+        </tbody></table><br>
+
+    <p id='Andaman and Nicobar Islands'>
+        Andaman and Nicobar Islands<br>
+        <img id="andaman and nicobar map" src="andaman Nico.png">
+        An archipelago situated in the Bay of Bengal and consisting of 572 islands, the vegetation here mostly consists of moist deciduous and wet evergreen forests. <br>
+        Commonly found trees in this region are: </p>
+    <table>
+        <tbody>
+        <tr><td><i>Pterocarpus macrocarpus</i></td></tr>
+        <tr><td><i>Hevea brasiliensis</i></td></tr>
+        <tr><td><i>Cocos nucifera</i></td></tr>
+        </tbody></table><br>
+</h3>
+
+<script src="script1"></script>
+</body>
+</html>
